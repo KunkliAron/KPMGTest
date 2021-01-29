@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MNBDataLoad", "MNBDataLoad\MNBDataLoad.csproj", "{286F2FF9-206A-4742-9A8C-0E7ACFDAF056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{CC17A916-46B9-4C0A-8C71-2731704A20DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286F2FF9-206A-4742-9A8C-0E7ACFDAF056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286F2FF9-206A-4742-9A8C-0E7ACFDAF056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286F2FF9-206A-4742-9A8C-0E7ACFDAF056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286F2FF9-206A-4742-9A8C-0E7ACFDAF056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC17A916-46B9-4C0A-8C71-2731704A20DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC17A916-46B9-4C0A-8C71-2731704A20DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC17A916-46B9-4C0A-8C71-2731704A20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC17A916-46B9-4C0A-8C71-2731704A20DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83610E11-0984-4A9D-ADA0-49DDEEFCC9FB}
+	EndGlobalSection
+EndGlobal
